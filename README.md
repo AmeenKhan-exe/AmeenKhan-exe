@@ -3,12 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/GIF's/Coding.gif">
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ameenkhan-exe" alt="ameenkhan-exe" />
-  </a> 
-</p>
-
 - 🌱 I’m currently learning **System Information and Event Management**
 
 - 📝 I regularly check my LinkedIn messages at [LinkedIn - Ameen Khan](https://www.linkedin.com/in/ameenkhan2706)
