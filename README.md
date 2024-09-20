@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameen Khan</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/GIF's/Coding.gif">
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
